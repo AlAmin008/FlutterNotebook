@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249905699634",
+    "project_id": "flutterfirediary",
+    "storage_bucket": "flutterfirediary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249905699634:android:c24545e5535a12f030952b",
+        "android_client_info": {
+          "package_name": "com.example.personal_notebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249905699634-gv1obdi8jvrhofg2bs8f5jbt5sdh8a3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Ij0DMC5EInjgXRyEW0QsvxTFbmjJe5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249905699634-gv1obdi8jvrhofg2bs8f5jbt5sdh8a3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
